@@ -1,0 +1,5 @@
+
+Usquid:UselessImportCheck"*Remove this unused import 'Factory.Pizza'.(í†Û‘8á¢±ªæ-
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô¬ýi
+]squid:UselessImportCheck"2Remove this unused import 'Factory.PeperoniPizza'.(§Â§ð8öà°ªæ-
+`squid:UselessImportCheck"0Remove this unused import 'Factory.CheesePizza'.(ÓóëÒøÿÿÿÿ8öà°ªæ-

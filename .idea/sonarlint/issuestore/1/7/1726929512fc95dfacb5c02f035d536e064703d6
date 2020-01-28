@@ -1,0 +1,9 @@
+
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(”‰ÿÿÿÿÿ8¬öÿ®í-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚¢›½ýÿÿÿÿ
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ë´ þì-
+Msquid:S001088")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8ÙÐš¯í-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ë´ þì-
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¯Àäüÿÿÿÿ8øòú®í-
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¦î±ˆ8¬öÿ®í-
+nsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(¬«Ç˜üÿÿÿÿ8æóý®í-

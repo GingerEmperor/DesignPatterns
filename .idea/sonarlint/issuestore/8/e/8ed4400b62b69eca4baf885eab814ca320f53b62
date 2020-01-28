@@ -1,0 +1,6 @@
+
+Zsquid:S1444"7Make this "public static uniqueSingleClass" field final(á¼¿¸úÿÿÿÿ8š‚öè-
+Qsquid:S3077".Remove the "volatile" keyword from this field.(á¼¿¸úÿÿÿÿ8Œ²¢é-
+Œ"squid:ClassVariableVisibilityCheck"RMake number a static final constant or non-public and provide accessors if needed.( ë¾©ùÿÿÿÿ8Ùø‘öè-
+—"squid:ClassVariableVisibilityCheck"]Make uniqueSingleClass a static final constant or non-public and provide accessors if needed.(á¼¿¸úÿÿÿÿ8š‚öè-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ŸŞ
